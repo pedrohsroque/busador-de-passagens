@@ -1,0 +1,23 @@
+City,Airport,Type
+Belo Horizonte,CNF,Origin
+Brasília,BSB,Origin
+Caracas,CCS,Origin
+Florianópolis,FLN,Origin
+Houston,HOU,Origin
+Memphis,MEM,Origin
+São Paulo,SAO,Origin
+Aruba,AUA,Destination
+Bariloche,BRC,Destination
+Buenos Aires,BUE,Destination
+Cartagena,CTG,Destination
+Jamaica,KIN,Destination
+Lima,LIM,Destination
+Lisboa,LIS,Destination
+Madrid,MAD,Destination
+Montevideu,MVD,Destination
+Montreal,YMQ,Destination
+Paris,PAR,Destination
+Porto,OPO,Destination
+Punta Cana,PUJ,Destination
+Santiago,SCL,Destination
+Toronto,YTO,Destination
